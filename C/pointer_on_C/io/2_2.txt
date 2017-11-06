@@ -1,0 +1,8 @@
+The build_bbb argument can be anything you want. I wanted to keep it simply bbb.
+However, I cannot do this as my Git Aware Prompt keeps complaining about new content.
+If you inspect .gitignore, you will see that it has build* in it. So, the directory prefixed
+with build will be ignored. This command will land you in the newly created build
+directory. Before moving further, we need to examine this directory. Here, we have a
+subdirectory named conf and two files, bblayers.conf and local.conf. We will look
+into bblayers.conf in the upcoming chapters. For now, we will go through the contents
+of local.conf.

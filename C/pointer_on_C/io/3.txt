@@ -1,0 +1,3 @@
+First, we will encounter the following two options, which are related to each other. These
+options are here to tune the level of parallelism used by BitBake, the actual driver behind
+Yocto Project.

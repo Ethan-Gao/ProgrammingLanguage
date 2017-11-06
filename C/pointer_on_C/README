@@ -1,0 +1,11 @@
+C和指针.pdf: 中文版pdf书籍
+cmd_arg: 命令行参数
+macro: 宏定义
+pointer: 指针
+io: 输入输出流、文件流
+bitfield: 位段、位域
+string: 常用字符串操作指针的实现
+
+说明:
+1.由于常用数据结构(链、栈、队列、二叉树、哈希表)已经存在于data_struct_algo，此处不在包含
+2.string各种实现均来源于linux内核实现，使用指针

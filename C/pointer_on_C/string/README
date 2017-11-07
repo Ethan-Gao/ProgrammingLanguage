@@ -1,0 +1,5 @@
+string.c: linux内核源文件,路径lib/string.c
+str.c: 常用字符串操作
+strn.c: 常用字符串操作,带长度限制
+mem.c: 常用内存操作
+unusual.c: 不常用字符串操作
